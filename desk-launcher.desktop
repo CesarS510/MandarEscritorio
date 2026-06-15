@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Escritorio Rápido
+Comment=Envía apps y archivos al escritorio
+Exec=python3 /home/cesar/.local/bin/desk-launcher.py
+Icon=desk-launcher
+Categories=Utility;
+StartupNotify=true
+StartupWMClass=desk-launcher
